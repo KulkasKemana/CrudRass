@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login - Rasya Website</title>
+    <title>Login - Wisata</title>
     <link href="{{ asset('vendor/fontawesome-free/css/all.min.css') }}" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;400;700&display=swap" rel="stylesheet">
     <link href="{{ asset('css/sb-admin-2.min.css') }}" rel="stylesheet">
@@ -91,7 +91,7 @@
             <button type="submit" class="btn-primary">Login</button>
         </form>
         <div class="footer">
-            &copy; {{ date('Y') }} Rasya Website. All rights reserved.
+            &copy; {{ date('Y') }} Wisata Website. All rights reserved.
         </div>
     </div>
 
